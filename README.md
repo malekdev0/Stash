@@ -43,6 +43,4 @@ Requirements:
 - JDK 17
 - Android SDK 36
 
-## License
 
-Apache License 2.0. Add the standard license text before publishing.
